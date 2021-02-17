@@ -1,0 +1,19 @@
+Write a letter to your manager about your work from the last year. Include
+
+What you did
+
+What you think you could improve
+
+A training request
+
+
+Dr. Mr. Pitter.
+    My name is Stanislav Zinoviev, I am a software engineear in claud unit.
+    Last year team and I were working on merging two parts of source code and increasing performance.
+    My responsibilities were maintaining the old part and making a smooth merging between 
+a new one. At the finishing of the year, we have got final results of tests.
+All our expectations were approved. The allocations of code were decreased by 11 percent, also we've already had
+a one storage of code. It is very a useful improvement for next development.
+   Hence, I am interested in increasing my knowledge in performance testing, that is why I want to ask approvement for promotion 
+to new training course which our company provides. Thanks for your attention.
+    Yours sincerely, Stas Zinoviev.     
