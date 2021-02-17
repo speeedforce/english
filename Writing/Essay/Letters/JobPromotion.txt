@@ -13,7 +13,9 @@ Dr. Mr. Pitter.
     My responsibilities were maintaining the old part and making a smooth merging between 
 a new one. At the finishing of the year, we have got final results of tests.
 All our expectations were approved. The allocations of code were decreased by 11 percent, also we've already had
-a one storage of code. It is very a useful improvement for next development.
+a one storage of code. It is very a useful improvement for next development. Additionally, running tests are running 
+two times faster. Hence, delivering features have become easire and quicker.
    Hence, I am interested in increasing my knowledge in performance testing, that is why I want to ask approvement for promotion 
-to new training course which our company provides. Thanks for your attention.
+to new training course which our company provides. Next group will start in next two week. Looking forward to your respons and
+thanks for your attention.
     Yours sincerely, Stas Zinoviev.     
