@@ -1,0 +1,32 @@
+Work is being done on the street where you live. The noise 
+is disturbing you.
+
+Write a letter of complaint to your local council. In your letter:
+
+- introduce yourself
+- explain what the problem is
+- suggest solutions to the problem
+
+type: formal
+subject: unknow -> Dear Sir or Madam, Your faithfully, Stanislav Zinoviev
+
+Dear Sir or Madam,
+I am writing this letter to report the noises near my apartment due to road-working at the illegal working time.
+
+My name is Stanislav Zinoviev and I live in 3 Google street, house number 4 over 5 years. 
+
+The local road department has been working on the repairing street for three weeks. 
+The works are very loud and it wasn't a problem until the schedule was acceptable by law. 
+In the first week, they were doing their job between 10 AM from 18 PM and people ussually at work at this time.
+But, then time frame of work has become 9 AM from 22 PM and it is unacceptable. By local law the loud sounds restricted
+befor 10 AM and after 18 PM.
+
+I am deeply distressed by this situation because I am getting issues with my daily rest time from the repairing.
+I came to know that many people have reported the same problem to the council, and it is being investigated by
+the road department. I would request that you advise the project team to return to the previous schedule.
+
+I look forward to the problem beeing resolved.
+
+Yours faithfully,
+Stanislav.
+
